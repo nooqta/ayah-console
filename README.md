@@ -1,7 +1,7 @@
 # ayah-console
 Display an Ayah( آية) from the Quran in the browser console as an Islamic reminder
 
-## Suggested features for the
+## Suggested features
 - Display translation of a specific Ayah
 - Display transliteration of specific Ayah
 - Play audio for Ayah
